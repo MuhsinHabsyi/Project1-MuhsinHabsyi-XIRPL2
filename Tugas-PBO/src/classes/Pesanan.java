@@ -4,21 +4,21 @@
  * and open the template in the editor.
  */
 package classes;
-
+import java.awt.*;
 /**
  *
  * @author musa
  */
-public class Pesanan {
     
+public class Pesanan {
     private Menu menu;
     private int jumlah;
     private String keterangan;
     
-    public Pesanan(Menu menu, int jumlah) { }
+    public Pesanan(Menu menu, int jumlah){}
     
-    public void setKeterangan(String keterangan) { }
+    public void setKeterangan(String keterangan){}
     
-    public String getKeterangan() { return ""; }
-    
+    public String getKeterangan(){return"";}
+
 }

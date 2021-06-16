@@ -4,13 +4,12 @@
  * and open the template in the editor.
  */
 package classes;
-
+import java.awt.*;
 /**
  *
  * @author musa
  */
-public class Ramen {
-    
-    public Ramen(String nama_ramen, double harga) { }
+public class Ramen extends Menu {
+    public Ramen(String nama_ramen, double harga){}
     
 }

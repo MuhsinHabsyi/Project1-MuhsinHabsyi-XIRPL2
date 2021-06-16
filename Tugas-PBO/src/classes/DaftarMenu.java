@@ -4,21 +4,21 @@
  * and open the template in the editor.
  */
 package classes;
-
+import java.awt.*;
+import java.util.ArrayList;
 /**
  *
  * @author musa
  */
 public class DaftarMenu {
-    
     private ArrayList<Menu> daftarMenu;
     
-    public DaftarMenu() { }
+    public DaftarMenu(){}
     
-    public void tambahanMenu (Menu menu) { }
+    public void tambahMenu (Menu menu){}
     
-    public void getMenuByKategori (String kategori) { }
+    public void getMenuByKategori (String kategori){}
     
-    public void tampilDaftarMenu() { }
-    
+    public void tampilDaftarMenu(){}
+
 }

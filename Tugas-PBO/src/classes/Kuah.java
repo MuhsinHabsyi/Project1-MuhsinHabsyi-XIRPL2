@@ -4,13 +4,12 @@
  * and open the template in the editor.
  */
 package classes;
-
+import java.awt.*;
 /**
  *
  * @author musa
  */
-public class Kuah {
-    
-    public Kuah (String nama_kuah) { }
+public class Kuah extends Menu {
+    public Kuah(String nama_kuah){}
     
 }

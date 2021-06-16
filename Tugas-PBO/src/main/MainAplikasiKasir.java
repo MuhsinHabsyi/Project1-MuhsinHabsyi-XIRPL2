@@ -5,14 +5,12 @@
  */
 package main;
 
-/**
- *
- * @author musa
- */
+import java.util.Scanner;
+
 public class MainAplikasiKasir {
- 
-    public static void main(String[] args) { }
+    public static void main(String[]args){}
     
-    public void generateDaftarMenu() { }
-    
+    public void generateDaftarMenu(){}
+
+
 }

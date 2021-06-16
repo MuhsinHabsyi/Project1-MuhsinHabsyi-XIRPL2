@@ -4,13 +4,11 @@
  * and open the template in the editor.
  */
 package classes;
-
+import java.awt.*;
 /**
  *
  * @author musa
  */
-public class Toping {
-    
-    public Toping (String nama_toping, double harga) { }
-    
+public class Toping extends Menu {
+    public Toping(String nama_toping, double harga){}
 }
